@@ -1,5 +1,6 @@
 Movimento Planetário
 ====================
+![alt tag](https://raw.githubusercontent.com/eccard/Movimento_Planetario/master/sh.png)
 
 Esse projeto tem o objetivo de simular a movimentação dos planetas no sistema solar. 
 Inicialmente o programa simula 3 corpos: Sol + Terra + Jupiter.
