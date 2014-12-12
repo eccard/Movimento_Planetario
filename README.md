@@ -1,4 +1,4 @@
-Movimento_Planetario
+Movimento Planetário
 ====================
 
 Esse projeto tem o objetivo de simular a movimentação dos planetas no sistema solar. 
